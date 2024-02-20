@@ -1,4 +1,4 @@
-# HW20 - Сценарии iptables
+# Сценарии iptables
 
 ## Задание
 
@@ -12,7 +12,8 @@
 
 Схема сети
 
-![img](./1.png)
+<img width="580" alt="1" src="https://github.com/dimkaspaun/iptables/assets/156161074/7aacdede-868d-4fb7-914c-26a7f16a69c1">
+
 
 Доработаем наш Ansible playbook добавив:
 
